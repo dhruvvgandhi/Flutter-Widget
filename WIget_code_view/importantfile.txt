@@ -1,0 +1,3 @@
+dependencies:
+
+widget_with_codeview: ^1.0.3

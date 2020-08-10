@@ -1,0 +1,3 @@
+dependencies: 
+
+fl_radial_menu: 0.1.0

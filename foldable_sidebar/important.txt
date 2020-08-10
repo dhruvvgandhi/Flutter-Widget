@@ -1,0 +1,3 @@
+dependencies: 
+
+foldable_sidebar:  ^1.0.0

@@ -1,0 +1,3 @@
+dependencies:
+
+circular_bottom_navigation: ^1.0.1

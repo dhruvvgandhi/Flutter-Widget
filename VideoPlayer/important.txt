@@ -1,0 +1,10 @@
+dependencies: 
+
+video_player: ^0.10.11+2
+
+
+1st go to android manifest file
+
+<project>/android/app/src/main/AndroidManifest.xml:
+add bellow permission 
+<user-permission android:name="android.permission.INTERNET"/>

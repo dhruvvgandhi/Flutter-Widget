@@ -1,0 +1,3 @@
+dependencies: 
+
+flutter_colorpicker: ^0.3.4

@@ -1,0 +1,3 @@
+dependencies: 
+
+curved_navigation_bar: ^0.3.2

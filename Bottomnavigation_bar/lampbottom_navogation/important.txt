@@ -1,0 +1,3 @@
+dependencies: 
+
+lamp_bottom_navigation: ^0.1.1
